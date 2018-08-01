@@ -1,3 +1,7 @@
  this s2 file is created in master branch
 
+<<<<<<< HEAD
  modifing the s2 file in SDN branch
+=======
+ s2 file modified in Auth branch
+>>>>>>> Auth

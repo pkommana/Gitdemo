@@ -1,3 +1,7 @@
  this s1 file is created in master branch
 
+<<<<<<< HEAD
  This line is added in the SDN branch of s1 file
+=======
+ s1 file modified in the Auth branch
+>>>>>>> Auth
